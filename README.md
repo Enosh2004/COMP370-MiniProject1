@@ -240,7 +240,7 @@ Error: java.lang.ClassNotFoundException
 
 ## Team Members
 
-Faneesh Juneja, Manya, Eesha, Inosh, Farhan
+Faneesh Juneja, Manya, Eesha, Enosh, Farhan
 
 ## License
 
